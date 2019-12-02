@@ -82,7 +82,7 @@ body{
     display: inline-block;
     float: none;
 }
-.navbar-nav li:after {
+/*.navbar-nav li:after {
     content: "";
     position: absolute;
     background: #FFFFFF;
@@ -95,7 +95,7 @@ body{
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
 	-moz-border-radius: 50%;
-}
+}*/
 .navbar-nav li.active:after {
     background: none !important;
     width: 0px !important;
