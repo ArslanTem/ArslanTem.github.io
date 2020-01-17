@@ -16,7 +16,10 @@ body{
 	background: url(../images/1.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
-
+.style-for-left-team-box{
+	position:left;
+	margin-left: 15px;
+}
 .agileinfo-dot{
 
     background: url(../images/dott.png)repeat 0px 0px;
